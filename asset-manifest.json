@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Landing-page/static/css/main.027f2635.css",
-    "main.js": "/Landing-page/static/js/main.d3d1a43b.js",
+    "main.js": "/Landing-page/static/js/main.b44fdc72.js",
     "static/js/453.2838e13c.chunk.js": "/Landing-page/static/js/453.2838e13c.chunk.js",
     "static/media/hp-4525-img-removebg.png": "/Landing-page/static/media/hp-4525-img-removebg.c18b7755e20716cab0e1.png",
     "static/media/hq-Bg.jpg": "/Landing-page/static/media/hq-Bg.c850f957383483287bc1.jpg",
@@ -10,11 +10,11 @@
     "static/media/hp-45-25-img-4-removebg-preview.png": "/Landing-page/static/media/hp-45-25-img-4-removebg-preview.feb4e1f263bb32190de5.png",
     "index.html": "/Landing-page/index.html",
     "main.027f2635.css.map": "/Landing-page/static/css/main.027f2635.css.map",
-    "main.d3d1a43b.js.map": "/Landing-page/static/js/main.d3d1a43b.js.map",
+    "main.b44fdc72.js.map": "/Landing-page/static/js/main.b44fdc72.js.map",
     "453.2838e13c.chunk.js.map": "/Landing-page/static/js/453.2838e13c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.027f2635.css",
-    "static/js/main.d3d1a43b.js"
+    "static/js/main.b44fdc72.js"
   ]
 }
