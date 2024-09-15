@@ -24,10 +24,12 @@
     "web-vitals": "^2.1.4"
   },
   
-  "scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build"
+"scripts": {
+  "start": "node app.js",
+  "build": "react-scripts build",
+  "heroku-postbuild": "npm run build"
 },
+
 
 
   
