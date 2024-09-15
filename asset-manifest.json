@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Landing-page/static/css/main.027f2635.css",
+    "main.js": "/Landing-page/static/js/main.a0fecf19.js",
+    "static/js/453.2838e13c.chunk.js": "/Landing-page/static/js/453.2838e13c.chunk.js",
+    "static/media/hp-4525-img-removebg.png": "/Landing-page/static/media/hp-4525-img-removebg.c18b7755e20716cab0e1.png",
+    "static/media/hq-Bg.jpg": "/Landing-page/static/media/hq-Bg.c850f957383483287bc1.jpg",
+    "static/media/hp-4525-img-7-removebg-preview.png": "/Landing-page/static/media/hp-4525-img-7-removebg-preview.7488091fd0e43c4acd17.png",
+    "static/media/svgTwo.png": "/Landing-page/static/media/svgTwo.f73033b1084324b1274f.png",
+    "static/media/hp-4525-img-6-removebg-preview.png": "/Landing-page/static/media/hp-4525-img-6-removebg-preview.97355b9e78a94a684156.png",
+    "static/media/hp-45-25-img-4-removebg-preview.png": "/Landing-page/static/media/hp-45-25-img-4-removebg-preview.feb4e1f263bb32190de5.png",
+    "static/media/hp-45-25-img-5-removebg-preview.png": "/Landing-page/static/media/hp-45-25-img-5-removebg-preview.8d397f702f63eba44528.png",
+    "static/media/revFour.jpg": "/Landing-page/static/media/revFour.e3d0ffdc05d98e62a364.jpg",
+    "static/media/revOne.jpg": "/Landing-page/static/media/revOne.ad15bdd8241148ed3142.jpg",
+    "static/media/revThree.jpg": "/Landing-page/static/media/revThree.aac7578383fe05cfe41a.jpg",
+    "static/media/revTow.jpg": "/Landing-page/static/media/revTow.a4de5d19aa0f61a62a7f.jpg",
+    "index.html": "/Landing-page/index.html",
+    "main.027f2635.css.map": "/Landing-page/static/css/main.027f2635.css.map",
+    "main.a0fecf19.js.map": "/Landing-page/static/js/main.a0fecf19.js.map",
+    "453.2838e13c.chunk.js.map": "/Landing-page/static/js/453.2838e13c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.027f2635.css",
+    "static/js/main.a0fecf19.js"
+  ]
+}
